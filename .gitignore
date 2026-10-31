@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.log
+backend/models/
+backend/data/papers/
+backend/data/state.json
+backend/data/keys_demo.txt
+backend/data/embeddings.npz
+.env

@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+reportlab
+pymupdf
+cryptography
+opencv-python-headless
+numpy
+scipy
+pillow
+rapidocr-onnxruntime
+sentence-transformers
+rapidfuzz
+python-dotenv
