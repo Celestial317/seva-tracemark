@@ -1,13 +1,12 @@
-TraceMarkAI
-Submitted by Team Invictus:
-Palak Jain
-Suravi Jha
-Soumya Sourav Das
-Tushar Mathur
-Sudhanshu Shekhar
-Devyanshi Bansal
-
 # TraceMarkAI
+
+## Submitted by Team Invictus:
+- Palak Jain
+- Suravi Jha
+- Soumya Sourav Das
+- Tushar Mathur
+- Sudhanshu Shekhar
+- Devyanshi Bansal
 
 Leak-traceable exam papers. Every exam centre receives the same paper, but each centre's copy carries a different mix of semantically equivalent question versions (its hidden fingerprint). If a page leaks, a single phone photo of it is enough to name the centre it came from.
 
